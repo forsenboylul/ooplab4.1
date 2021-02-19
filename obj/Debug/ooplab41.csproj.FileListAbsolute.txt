@@ -1,0 +1,10 @@
+C:\Users\igorm\source\repos\ooplab41\ooplab41\bin\Debug\ooplab41.exe.config
+C:\Users\igorm\source\repos\ooplab41\ooplab41\bin\Debug\ooplab41.exe
+C:\Users\igorm\source\repos\ooplab41\ooplab41\bin\Debug\ooplab41.pdb
+C:\Users\igorm\source\repos\ooplab41\ooplab41\obj\Debug\ooplab41.csprojAssemblyReference.cache
+C:\Users\igorm\source\repos\ooplab41\ooplab41\obj\Debug\ooplab41.Form1.resources
+C:\Users\igorm\source\repos\ooplab41\ooplab41\obj\Debug\ooplab41.Properties.Resources.resources
+C:\Users\igorm\source\repos\ooplab41\ooplab41\obj\Debug\ooplab41.csproj.GenerateResource.cache
+C:\Users\igorm\source\repos\ooplab41\ooplab41\obj\Debug\ooplab41.csproj.CoreCompileInputs.cache
+C:\Users\igorm\source\repos\ooplab41\ooplab41\obj\Debug\ooplab41.exe
+C:\Users\igorm\source\repos\ooplab41\ooplab41\obj\Debug\ooplab41.pdb
